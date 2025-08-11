@@ -1,4 +1,4 @@
-# Expanding Cards
+# Expanding Flex Panels — Responsive Interactive UI
 
 This project demonstrates a responsive user interface featuring interactive expanding panels implemented with CSS Flexbox and transitions. Each panel displays a background image with an overlay and a hidden title that becomes visible when the panel is active (clicked). The active panel expands smoothly to draw focus, while other panels contract proportionally.
 
@@ -10,7 +10,14 @@ This project demonstrates a responsive user interface featuring interactive expa
 - Smooth flex-based animation to expand and collapse panels on user interaction.  
 - Readable text overlay using a dark translucent layer for contrast.  
 - Utilizes the **Quicksand** font for a clean and modern typographic style.  
-- Panels 4 and 5 are hidden on smaller screens to optimize mobile usability.
+- Panels 4 and 5 are hidden on smaller screens to optimize mobile usability.  
+- **Responsive only up to screen widths of 480px**; beyond that, layout remains horizontal.
+
+---
+
+## Live Demo
+
+Try the live demo here: [https://princesharma-afk.github.io/Expanding-Cards/](https://princesharma-afk.github.io/Expanding-Cards/)
 
 ---
 
