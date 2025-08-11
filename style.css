@@ -16,6 +16,7 @@ body {
 
 .container {
     display: flex;
+    margin-top: 20px;
     height: 80vh;
     width: 95%;
     margin: 40px auto 0; /* pushes container a bit below top */
@@ -70,4 +71,5 @@ body {
     .panel:nth-of-type(5) {
         display: none;
     }
+
 }
